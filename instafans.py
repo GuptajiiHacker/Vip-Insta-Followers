@@ -1,4 +1,8 @@
-import os, sys, requests, time, instagrapi
+import os,
+import sys, 
+import requests,
+import ime,
+import nstagrapi,
 from colorama import Fore
 from instagrapi import Client
 from datetime import datetime
