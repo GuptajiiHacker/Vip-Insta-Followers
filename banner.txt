@@ -7,6 +7,6 @@
  |_____\__, | |_|  \___/|_|_|\___/ \_/\_/  
         __/ |                              
        |___/                               
-made by hackerX anon 
-https://github.com/hackerstech
+made by KrishnaGupta 
+https://github.com/HackerGuptajii
 
