@@ -1,4 +1,5 @@
-banner():
+#!/bin/bash
+ banner():
 	print("""
   
 "\[\033"  _   _ _              __      _ _  "\[\033"                           
