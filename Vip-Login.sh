@@ -11,7 +11,7 @@ banner()
 						      
 cat banner.txt | lolcat -p .6
 
-echo -e "\e[0;33m This trick consist of following & Unfollowing insegrams id"
+echo -e "This trick consist of following & Unfollowing insegrams id"
 echo -e "special thanks to insta.me/Its_Vip_Krishna_Gupta \e[0m"
     			 
 
