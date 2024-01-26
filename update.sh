@@ -1,5 +1,5 @@
 cd .. 
-rm -rf followers-increaser
-git clone https://github.com/security-softwares/followers-increaser/
-cd followers-increaser
-bash increaser.sh
+rm -rf Vip-Insta-Followers
+git clone https://github.com/GuptajiiHacker/Vip-Insta-Followers
+cd Vip-Insta-Followers
+bash Vip-Login
