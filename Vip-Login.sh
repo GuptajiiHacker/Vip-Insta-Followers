@@ -25,4 +25,3 @@ read -p "Enter Username : " U
 read -p "Enter password :" -s S
 		 	 	
 python3 ins.py "$U" "$S"
-
