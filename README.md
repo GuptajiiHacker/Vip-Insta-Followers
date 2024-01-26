@@ -47,11 +47,9 @@ Here -:
 
 ## Main
 ```
-git clone https://github.com/hackerstech/followers-increaser
-
-cd followers-increaser
-pip install -r req.txt
-bash increaser.sh
+git clone https://github.com/GuptajiiHacker/Vip-Insta-Followers
+cd Vip-Insta-Followers
+bash Vip-Login.sh
 ```
 
 
