@@ -23,4 +23,4 @@ read -p "Enter Username : " U
 		         	
 read -p "Enter password :" -s S
 		 	 	
-python3 Vip-followers.py "$U" "$S"
+python3 insta-followers.py "$U" "$S"
