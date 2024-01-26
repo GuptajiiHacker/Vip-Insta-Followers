@@ -10,7 +10,9 @@ Latest instagram follower increaser 2023 in python 100% Real using instagram api
 
 - >allows updating tool 
 
-- >Maintained 
+- >Maintained
+- > 60= 1 Follower
+- > 60min =60 Followers 
 ---
 
 
@@ -53,9 +55,9 @@ bash Vip-Login.sh
 ```
 
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-ForHelp-green?style=for-the-badge&logo=instagram)](https://instagram.com/alien_ghost_2025?utm_medium=copy_link)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-ForHelp-green?style=for-the-badge&logo=instagram)](https://www.instagram.com/its_vip_krishna_gupta?igsh=NmRpbzd3Y2EzaWRw)
 
-[![TL](https://img.shields.io/badge/TELEGRAM-CHANNEL-brightgreen?style=for-the-badge&logo=telegram)](https://t.me/+p4fAwzyvtn81ZjI1)
+[![TL](https://img.shields.io/badge/TELEGRAM-CHANNEL-brightgreen?style=for-the-badge&logo=telegram)](https://t.me/HackerGuptajii.com)
 
 
 ### demo on youtube
@@ -89,7 +91,6 @@ link [watch here](https://www.youtube.com/watch?v=byN17DiOr0I)
 
 
 
-![](https://www.codewars.com/users/Hackers%20Tech/badges/large)
 
 
 
