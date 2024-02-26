@@ -51,9 +51,17 @@ Here -:
 
 ## Main
 ```
-git clone https://github.com/GuptajiiHacker/Vip-Insta-Followers
+pkg install git 
+apt update 
+apt upgrade 
+apt install python3 
+apt install git
+pip install rich 
+pip install instagram-private-api
+git clone  https://github.com/GuptajiiHacker/Vip-Insta-Followers
 cd Vip-Insta-Followers
-bash Vip-Login.sh
+chmod +x *
+bash   Vip-Login.sh
 ```
 
 
